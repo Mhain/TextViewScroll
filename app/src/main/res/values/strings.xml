@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TextViewScroll</string>
+    <string name="LGT">Train journeys are super fun especially while travelling with a group of friends. One of my most memorable journeys by train was my journey from Delhi to Jaipur. It was a school trip and we were all really excited about it. We had numerous plans for the trip and were especially looking forward to have a great time on our way.
+
+We all reached the railway station by 6 in the morning and the train started within few minutes. I occupied the window seat to see the view outside. The view of the green fields, muddy roads and huts on the way was delightful. My best friend sat beside me and we chatted as we looked outside.
+
+Soon, it was time for breakfast. I loved the cutlets and bread served in the train. We also had hot tomato soup after having a plate of bread and cutlets. After the breakfast, we all decided to play antakshari. Playing antakshari in large groups is always fun. Our teachers also joined us thereby adding to the fun. We played antakshari for the rest of the journey and before we even knew we had reached our destination. It was a great experience. The company of my friends made this train journey all the more gleeful.
+    </string>
+    <string name="ant">Paragraphs are commonly numbered using the decimal system, where (in books) the integral part of the decimal represents the number of the chapter and the fractional parts are arranged in each chapter in order of magnitude. Thus in Whittaker and Watson's 1921 A Course of Modern Analysis, chapter 9 is devoted to Fourier Series; within that chapter §9.6 introduces Riemann's theory, the following section §9.61 treats an associated function, following §9.62 some properties of that function, following §9.621 a related lemma, while §9.63 introduces Riemann's main theorem, and so on. Whittaker and Watson attribute this system of numbering to Giuseppe Peano on their "Contents" page, although this attribution does not seem to be widely credited elsewhere.[7]
+    </string>
+</resources>
